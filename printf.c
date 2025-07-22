@@ -18,22 +18,30 @@ int _printf(const char *format, ...)
 
 	while (format[i])
 	{
-		if (format[i] == '%' && format[i + 1])
+		if (format[i] == '%')
 		{
-			i++;
-			if (format[i] == 'c')
-				count += print_char(args);
-			else if (format[i] == 's')
-				count += print_string(args);
-			else if (format[i] == '%')
-				count += print_percent();
-			else if (format[i] == 'd' || format[i] == 'i')
-				count += print_int(args);
-			else
+			if (format[i + 1])
 			{
+				i++;
+				if (format[i] == 'c')
+					count += print_char(args);
+				else if (format[i] == 's')
+					count += print_string(args);
+				else if (format[i] == '%')
+					count += print_percent();
+				else if (format[i] == 'd' || format[i] == 'i')
+					count += print_int(args);
+				else
+				{
 				write(1, "%", 1);
 				write(1, &format[i], 1);
 				count += 2;
+				}
+			}
+			else
+			{
+				va_end(args);
+				return (-1);
 			}
 		}
 		else
