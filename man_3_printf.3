@@ -1,57 +1,66 @@
 .TH _PRINTF 3 "22 July 2025" "Custom Version" "Programmer's Manual"
-.br
+
 .SH NAME
 .B _printf
 
 .SH SYNOPSIS
 .B #include "main.h"
-.br
+
 .B int _printf(const char *format, ...);
-.br
+
 .SH DESCRIPTION
 .B _printf
-.br
+
 is a simplified implementation of the standard printf function.
 It displays data to the standard output using a format string.
 Each conversion specification is introduced
 by the character %, and ends with a conversion specifier.
-.br
+
 Supported format specifiers include:
 .TP
 .B %c
 Prints a single character.
-.br
+
 .TP
 .B %s
 Prints a string of characters.
-.br
+
 .TP
-.B %d, %i
+.B %d
+Prints a decimal integer.
+
+.TP
+.B %i
 Prints a decimal or hexadecimal integer.
-.br
+
 .TP
 .B %%
 Prints a literal percent sign.
-.br
+
 if an invalid format specifier is encountered, 
 both the `%` and the following character are printed as-is.
-.br
+
 .SH RETURN VALUE
 Return the total number of characters printed to the output (excluded null bytes)
 return -1 if it is an error
-.SH EXAMPLE
+.SH EXAMPLES
 .nf
-_printf("Hello %s! You scored %d%% on the test.\\n", "Alice", 95);
+_printf("Hello %s! You scored %d%% on the test.\n", "Alice", 95);
 .fi
-.br
 Output:
 .in
 Hello Alice! You scored 95% on the test.
-.br
+
+_printf("%cello, our names are %s and %s, we have respectively %d and %i years.\n", 'H', "Le Guen", "Leroy", 37, 17);
+.fi
+Output:
+.in
+Hello, our names are Le Guen and Leroy, we have respectively 37 and 17 years.
+
 .SH SEE ALSO
 .BR printf(3)
 .SH AUTHOR
-Function written by Loic Le Guen and Yanis Leroy.
-.br
+Function written by Loïc Le Guen and Yanis Leroy.
+
 .SH COPYRIGHT
 Free to use and modify for educational or personal purposes.
