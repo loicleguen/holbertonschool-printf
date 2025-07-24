@@ -69,10 +69,15 @@ Undefined behaviors (such as %r) are printed as-is, just like `printf` does.
 
 int main(void)
 {
-    int count;
+    int len;
 
-    count = _printf("%cello, our names are %s and %s, we have respectively %d and %i years.\n", 'H', "Le Guen", "Leroy", 37, 17);
-    _printf("Nombre de caractères affichés : %d\n", count);
+    len = _printf("Let's try to printf a simple sentence.\n");
+    _printf("Length:[%d, %i]\n", len, len);
+    _printf("Negative:[%d]\n", -762534);
+    _printf("Character:[%c]\n", 'H');
+    _printf("String:[%s]\n", "I am a string !");
+    len = _printf("Percent:[%%]\n");
+    _printf("Len:[%d]\n", len);
     return (0);
 }
 ```
