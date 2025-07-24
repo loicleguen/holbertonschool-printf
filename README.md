@@ -9,7 +9,7 @@
 ## Table of contents
 - **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
 - **[How to clone this repos](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#how-to-clone-this-repos)**
-- **[How to compile the printf function](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
+- **[How to compile the printf function](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#how-to-compile-the-printf-function)**
 - **[How to execute the printf function](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#how-to-execute-the-printf-function)**
 - **[General requirement](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#general-requirements)**
 - **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
