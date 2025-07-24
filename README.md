@@ -85,6 +85,14 @@ man ./man_3_printf.3
 
 **[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
+## Flowchart
+
+<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/Flowchartprintf.drawio.png">
+
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## 🧪 Example of use
 
 ```c
@@ -104,13 +112,7 @@ int main(void)
     return (0);
 }
 ```
----
 
-**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
-
-## Flowchart
-
-<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/Flowchartprintf.drawio.png">
 
 ---
 
