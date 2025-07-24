@@ -77,6 +77,14 @@ Undefined behaviors (such as %r) are printed as-is, just like `printf` does.
 
 **[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
+## 🧪 Execute command Man page
+
+man ./man_3_printf.3 
+
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## 🧪 Example of use
 
 ```c
