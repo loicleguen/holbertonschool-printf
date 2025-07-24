@@ -11,6 +11,8 @@
 **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
 **[Snippets](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
+**[Link to our code of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
+**[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
 
 ---
 
@@ -180,3 +182,10 @@ int print_char(va_list args)
 - - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c)**
 - - **[man page of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/man_3_printf.3)**
 
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
+## Compilation
+
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
