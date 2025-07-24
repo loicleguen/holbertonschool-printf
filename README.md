@@ -5,14 +5,15 @@
 
 ## Table of contents
 - **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
-- **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
+- **[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
 - **[General requirement](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#general-requirements)**
 - **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
 - **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 - **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
 - **[Snippets](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
 - **[Link to our code of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#link-to-our-code-of-printf)**
-- **[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
+- **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
+
 
 ---
 
