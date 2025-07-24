@@ -3,7 +3,7 @@
 ## Table des matière
 **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
 **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
-**[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-fonctionnalit%C3%A9s-support%C3%A9es)**
+**[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
 **[Exemple d'utilisation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-exemple-dutilisation)**
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
 
