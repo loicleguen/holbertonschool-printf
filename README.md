@@ -37,14 +37,7 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
 
----
 
-**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
-
-## 👥 Authors
-
-- **[Yanis Leroy](https://github.com/LEROY-Yanis)**  
-- **[Loic Le Guen](https://github.com/loicleguen)**
 
 ---
 
@@ -52,16 +45,16 @@ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
 
 ## General requirements
 
-Allowed Editors: vi, vim, emacs.
-Compilation Environment: Ubuntu 20.04 LTS.
-C Compiler: gcc with options -Wall -Werror -Wextra -pedantic -std=gnu89.
-End of File: All files must end with a newline.
-README.md File: Mandatory at the root of the project folder.
-Code Style: Conforms to Betty style (checked with betty-style.pl and betty-doc.pl).
-Global Variables: Forbidden.
-Number of Functions per File: No more than 5 functions per file.
-main.c Files: Must not be pushed into the root repository. Test files with main can be placed in a separate folder (test/).
-Header File: main.h must contain the prototypes of all functions and be include-guarded.
+- Allowed Editors: vi, vim, emacs.
+- Compilation Environment: Ubuntu 20.04 LTS.
+- C Compiler: gcc with options -Wall -Werror -Wextra -pedantic -std=gnu89.
+- End of File: All files must end with a newline.
+- README.md File: Mandatory at the root of the project folder.
+- Code Style: Conforms to Betty style (checked with betty-style.pl and betty-doc.pl).
+- Global Variables: Forbidden.
+- Number of Functions per File: No more than 5 functions per file.
+- main.c Files: Must not be pushed into the root repository. Test files with main can be placed in a separate folder (test/).
+- Header File: main.h must contain the prototypes of all functions and be include-guarded.
 
 ---
 
@@ -189,4 +182,11 @@ int print_char(va_list args)
 - - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c)**
 - - **[man page of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/man_3_printf.3)**
 
+---
 
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
+## 👥 Authors
+
+- **[Yanis Leroy](https://github.com/LEROY-Yanis)**  
+- **[Loic Le Guen](https://github.com/loicleguen)**
