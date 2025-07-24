@@ -13,7 +13,7 @@
 
 ---
 
-**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
+**[TOP]([https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 ## 📚 Description
 
 This project aims to **recreate the `printf` function** from the standard C language library. It is an exercise designed to provide in-depth understanding of:
