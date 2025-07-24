@@ -33,6 +33,14 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 **[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
+## Compilation
+
+gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
+
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## 👥 Authors
 
 - **[Yanis Leroy](https://github.com/LEROY-Yanis)**  
@@ -182,10 +190,4 @@ int print_char(va_list args)
 - - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c)**
 - - **[man page of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/man_3_printf.3)**
 
----
 
-**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
-
-## Compilation
-
-gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
