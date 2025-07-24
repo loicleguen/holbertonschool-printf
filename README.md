@@ -41,7 +41,7 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 ## How to clone this repos
 
-
+https://github.com/loicleguen/holbertonschool-printf.git
 
 ---
 
@@ -51,7 +51,13 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
 
+---
 
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
+## How to execute the printf function
+
+./a.out
 
 ---
 
