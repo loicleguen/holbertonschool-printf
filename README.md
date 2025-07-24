@@ -8,7 +8,9 @@
 
 ## Table of contents
 - **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
-- **[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
+- **[How to clone this repos](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#how-to-clone-this-repos)**
+- **[How to compile the printf function](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
+- **[How to execute the printf function](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#how-to-execute-the-printf-function)**
 - **[General requirement](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#general-requirements)**
 - **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
 - **[Execute command Man page](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-execute-command-man-page)**
@@ -47,7 +49,7 @@ https://github.com/loicleguen/holbertonschool-printf.git
 
 **[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
-## Compilation
+## How to compile the printf function
 
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
 
