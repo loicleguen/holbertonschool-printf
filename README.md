@@ -5,7 +5,7 @@
 ## Table of contents
 **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
 **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
-**[General requirement]()**
+**[General requirement](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#general-requirements)**
 **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
 **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
