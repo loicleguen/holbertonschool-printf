@@ -1,3 +1,5 @@
+<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/holberton.png">
+
 # _printf - Recreation of printf function in C
 
 ## Table of contents
