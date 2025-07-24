@@ -39,6 +39,14 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 **[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
+## How to clone this repos
+
+
+
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## Compilation
 
 gcc -Wall -Wextra -Werror -pedantic -std=gnu89 -Wno-format *.c
