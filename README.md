@@ -248,4 +248,4 @@ int print_char(va_list args)
 ## 👥 Authors
 
 - **[Yanis Leroy](https://github.com/LEROY-Yanis)**  
-- **[Loic Le Guen](https://github.com/loicleguen)**
+- **[Loïc Le Guen](https://github.com/loicleguen)**
