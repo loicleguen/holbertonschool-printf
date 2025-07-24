@@ -102,3 +102,54 @@ int main(void)
 <img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/Flowchartprintf.drawio.png">
 
 ---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
+## Snippets
+
+Exemple our printf function
+```c
+/**
+ * _printf - printf function
+ * @format: format string
+ * Return: number of characters printed
+ */
+
+int _printf(const char *format, ...)
+{
+	va_list args;
+	int i = 0, count = 0, res;
+
+	if (!format)
+		return (-1);
+	va_start(args, format);
+
+	while (format[i])
+	{
+		if (format[i] == '%')
+		{
+			res = handle_format(format, &i, args);
+```
+Exemple of our handle_format function
+```c
+/**
+ * handle_format - handles format specifiers for _printf
+ * @format: format string
+ * @i: pointer to current index in format
+ * @args: argument list
+ * Return: number of characters printed, or -1 on error
+ */
+
+int handle_format(const char *format, int *i, va_list args)
+{
+	int count = 0;
+
+	if (format[*i + 1])
+	{
+		(*i)++;
+		if (format[*i] == 'c')
+			count += print_char(args);
+		else if (format[*i] == 's')
+			count += print_string(args);
+```
+
