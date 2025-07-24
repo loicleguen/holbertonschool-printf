@@ -1,5 +1,7 @@
 ## TOP
-<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/holberton.png">
+<p align="center">
+	<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/holberton.png">
+</p>
 
 # _printf - Recreation of printf function in C
 
