@@ -10,6 +10,7 @@
 **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
 **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
+**[Snippets](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
 
 ---
 
