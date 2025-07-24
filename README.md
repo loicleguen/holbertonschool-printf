@@ -1,4 +1,4 @@
-# _printf - Recréation de la fonction printf en C
+# _printf - Recreation of printf function in C
 
 ## Table of contents
 **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
