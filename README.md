@@ -177,6 +177,6 @@ int print_char(va_list args)
 
 - - **[main.h](https://github.com/loicleguen/holbertonschool-printf/blob/main/main.h)**
 - - **[functions.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/functions.c)**
-- - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c))**
+- - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c)**
 - - **[man page of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/man_3_printf.3)**
 
