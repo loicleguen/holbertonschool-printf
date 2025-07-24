@@ -175,8 +175,8 @@ int print_char(va_list args)
 
 ## Link to our code of printf
 
-- main.h
-- functions.c
-- Printf.c
-- man page of printf
+- - **[main.h](https://github.com/loicleguen)**
+- - **[functions.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/functions.c)**
+- - **[printf.c](https://github.com/loicleguen/holbertonschool-printf/blob/main/printf.c))**
+- - **[man page of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/man_3_printf.3)**
 
