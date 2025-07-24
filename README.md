@@ -152,4 +152,19 @@ int handle_format(const char *format, int *i, va_list args)
 		else if (format[*i] == 's')
 			count += print_string(args);
 ```
+Exemple of our print_char function who whrite a character
+```c
+/**
+ * print_char - prints a character
+ * @args: argument list
+ * Return: number of characters printed
+ */
+
+int print_char(va_list args)
+{
+	char c = va_arg(args, int);
+
+	return (write(1, &c, 1));
+}
+```
 
