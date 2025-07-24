@@ -190,6 +190,21 @@ int print_char(va_list args)
 	return (write(1, &c, 1));
 }
 ```
+---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
+## Using valgrind to detect memory leaks
+
+valgrind ./a.out 
+==49754== HEAP SUMMARY:
+==49754==     in use at exit: 0 bytes in 0 blocks
+==49754==   total heap usage: 1 allocs, 1 frees, 1,024 bytes allocated
+==49754== 
+==49754== All heap blocks were freed -- no leaks are possible
+==49754== 
+==49754== For lists of detected and suppressed errors, rerun with: -s
+==49754== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 
 ---
 
