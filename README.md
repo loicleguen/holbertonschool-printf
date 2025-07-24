@@ -1,6 +1,6 @@
 # _printf - Recréation de la fonction printf en C
 
-## Table des matière
+## Table of contents
 **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
 **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
 **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
