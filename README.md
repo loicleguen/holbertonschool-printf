@@ -28,12 +28,16 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 ---
 
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## 👥 Authors
 
 - **[Yanis Leroy](https://github.com/LEROY-Yanis)**  
 - **[Loic Le Guen](https://github.com/loicleguen)**
 
 ---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
 ## General requirements
 
@@ -51,6 +55,8 @@ Project carried out in pairs as part of the Holberton curriculum.
 
 ---
 
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
+
 ## 🛠️ Functions supported
 
 The `_printf` function supports the following format specifiers:
@@ -65,6 +71,8 @@ The `_printf` function supports the following format specifiers:
 Undefined behaviors (such as %r) are printed as-is, just like `printf` does.
 
 ---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
 ## 🧪 Example of use
 
@@ -86,6 +94,8 @@ int main(void)
 }
 ```
 ---
+
+**[TOP](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#top)**
 
 ## Flowchart
 
