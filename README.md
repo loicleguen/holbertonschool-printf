@@ -4,7 +4,7 @@
 **[Description](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-description)**
 **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
 **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
-**[Exemple d'utilisation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-exemple-dutilisation)**
+**[Utilisation exemple](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
 
 ---
