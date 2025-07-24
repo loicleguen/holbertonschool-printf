@@ -8,9 +8,11 @@
 - **[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
 - **[General requirement](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#general-requirements)**
 - **[Functions supported](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#%EF%B8%8F-functions-supported)**
-- **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
+- **[Execute command Man page](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-execute-command-man-page)**
 - **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
+- **[Exemple of use](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-example-of-use)**
 - **[Snippets](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
+- **[Using valgrind to detect memory leaks](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#using-valgrind-to-detect-memory-leaks)**
 - **[Link to our code of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#link-to-our-code-of-printf)**
 - **[Authors](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#-authors)**
 
