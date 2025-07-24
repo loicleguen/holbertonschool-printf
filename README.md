@@ -111,6 +111,16 @@ int main(void)
     _printf("Len:[%d]\n", len);
     return (0);
 }
+
+STDOUT
+Let's try to printf a simple sentence.
+Length:[39, 39]
+Negative:[-762534]
+Character:[H]
+String:[I am a string !]
+Percent:[%]
+Len:[12]
+
 ```
 
 
