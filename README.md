@@ -12,7 +12,7 @@
 **[Flowchart](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#flowchart)**
 **[Snippets](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
 **[Link to our code of printf](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#link-to-our-code-of-printf)**
-**[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#snippets)**
+**[Compilation](https://github.com/loicleguen/holbertonschool-printf/blob/main/README.md#compilation)**
 
 ---
 
