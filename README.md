@@ -110,7 +110,7 @@ man ./man_3_printf.3
 ## Flowchart
 
 <p align="center">
-	<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/Flowchartprintf.drawio.png">
+	<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/Images/Flowchartprintf.drawio.png">
 </p>
 
 ---
