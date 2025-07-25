@@ -1,5 +1,5 @@
 <p align="center">
-	<img src= "https://github.com/loicleguen/holbertonschool-printf/blob/main/holberton.png">
+	<img src= "(https://github.com/loicleguen/holbertonschool-printf/blob/main/Images/holberton.png)">
 </p>
 
 ## TOP
